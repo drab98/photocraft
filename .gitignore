@@ -2,7 +2,8 @@
 plan/
 /target
 target/
-/dist
+/dist/*
+!/dist/dtf-prep.wasm
 /corpus
 /log
 /secrets
